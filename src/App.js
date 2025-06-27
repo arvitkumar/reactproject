@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Hero/>
-      <HeroTwo/>     
+      {/* <HeroTwo/>      */}
     </>
   );
 }
